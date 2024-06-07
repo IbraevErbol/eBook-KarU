@@ -1,0 +1,85 @@
+[
+    {
+        "num": "3", 
+        "title": "Арнайы медициналық топ студенттеріне арналған сауықтыру бағытындағы жаттығулар",
+        "contentPath": "../ContentPage/page3/page3.1.html"
+
+    },
+    {
+        "num": "3.1", 
+        "title": "Дене сапаларын дамытуға арналған жаттығулар",
+        "title_mini": [
+            {
+                "num": "3.1.1",
+                "title": "Күш сапасын жетілдіру",
+                "contentPath": "../ContentPage/page3.1/page3.1.1.html"
+            },
+            {
+                "num": "3.1.2",
+                "title": "Жылдамдықты дамыту",
+                "contentPath": "../ContentPage/page3.1/page3.1.2.html"
+            },
+            {
+                "num": "3.1.3",
+                "title": "Төзімділікті дамыту",
+                "contentPath": "../ContentPage/page3.1/page3.1.3.html"
+            },
+            {
+                "num": "3.1.4",
+                "title": "Ептілікті дамыту",
+                "contentPath": "../ContentPage/page3.1/page3.1.4.html"
+            }
+        ],
+        "contentPath": "../ContentPage/page3/page2.1.html"
+    },
+    {
+        "num": "3.2", 
+        "title": "Дүниеге нәресте әкелген жас аналарды қалпына келтіру кешені",
+        "contentPath": "../ContentPage/page3/page3.2.html"
+    },
+    {
+        "num": "3.3", 
+        "title": "Емдік дене тәрбиесінің негізгі міндеттері және оларды жүзеге асыру жолдары",
+        "contentPath": "../ContentPage/page3/page3.3.html"
+    },
+    {
+        "num": "3.4", 
+        "title": "Асқазан және ішек жолдары ауырған кездегі емдік дене тәрбиесі",
+        "contentPath": "../ContentPage/page3/page3.4.html"
+    },
+    {
+        "num": "3.5", 
+        "title": "Өкпе аурулары кезіндегі емдік дене тәрбиесі",
+        "contentPath": "../ContentPage/page3/page3.5.html"
+    },
+    {
+        "num": "3.6", 
+        "title": "Тірек-қимыл аппаратының бұзылулары кезіндегі емдік дене тәрбиесі",
+        "contentPath": "../ContentPage/page3/page3.6.html"
+    },
+    {
+        "num": "3.7", 
+        "title": "Бүйрек аурулары кезіндегі емдік дене тәрбиесі",
+        "contentPath": "../ContentPage/page3/page3.7.html"
+    },
+    {
+        "num": "3.8", 
+        "title": "Бауыр ауырған кезде қолданылатын емдік дене тәрбиесі",
+        "contentPath": "../ContentPage/page3/page3.8.html"
+    },
+    {
+        "num": "3.9", 
+        "title": "Асқорыту жүйесі ауырған кезде қолданылатын емдік дене тәрбиесі",
+        "contentPath": "../ContentPage/page3/page3.9.html"
+    },
+    {
+        "num": "3.10", 
+        "title": "Қимыл-қозғалыс түрлерінің сауықтыру шараларын ұйымдастырудағы маңызы",
+        "contentPath": "../ContentPage/page3/page3.10.html"
+    },
+    {
+        "num": "3.11", 
+        "title": "Қорытынды",
+        "contentPath": "../ContentPage/page3/page3.t.html"
+    }
+]
